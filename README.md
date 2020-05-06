@@ -1,3 +1,3 @@
 # rotatingVectors
 
-change the parameters at the starting of the code according to your need
+change the parameters at the begining of the code according to your need
